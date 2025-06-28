@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using HotelReservationSystem.Models;
+using SistemaReservaHotel.Models;
 
-namespace HotelReservationSystem
+namespace SistemaReservaHotel
 {
     class Program
     {

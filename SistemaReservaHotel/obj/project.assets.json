@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/sistema_de_hospedagem/HotelReservationSystem/HotelReservationSystem.csproj",
-      "projectName": "HotelReservationSystem",
-      "projectPath": "/workspaces/sistema_de_hospedagem/HotelReservationSystem/HotelReservationSystem.csproj",
+      "projectUniqueName": "/workspaces/sistema_de_hospedagem/SistemaReservaHotel/SistemaReservaHotel.csproj",
+      "projectName": "SistemaReservaHotel",
+      "projectPath": "/workspaces/sistema_de_hospedagem/SistemaReservaHotel/SistemaReservaHotel.csproj",
       "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/sistema_de_hospedagem/HotelReservationSystem/obj/",
+      "outputPath": "/workspaces/sistema_de_hospedagem/SistemaReservaHotel/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/codespace/.nuget/NuGet/NuGet.Config"

@@ -1,0 +1,15 @@
+/workspaces/sistema_de_hospedagem/SistemaReservaHotel/bin/Debug/net8.0/SistemaReservaHotel
+/workspaces/sistema_de_hospedagem/SistemaReservaHotel/bin/Debug/net8.0/SistemaReservaHotel.deps.json
+/workspaces/sistema_de_hospedagem/SistemaReservaHotel/bin/Debug/net8.0/SistemaReservaHotel.runtimeconfig.json
+/workspaces/sistema_de_hospedagem/SistemaReservaHotel/bin/Debug/net8.0/SistemaReservaHotel.dll
+/workspaces/sistema_de_hospedagem/SistemaReservaHotel/bin/Debug/net8.0/SistemaReservaHotel.pdb
+/workspaces/sistema_de_hospedagem/SistemaReservaHotel/obj/Debug/net8.0/SistemaReservaHotel.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/sistema_de_hospedagem/SistemaReservaHotel/obj/Debug/net8.0/SistemaReservaHotel.AssemblyInfoInputs.cache
+/workspaces/sistema_de_hospedagem/SistemaReservaHotel/obj/Debug/net8.0/SistemaReservaHotel.AssemblyInfo.cs
+/workspaces/sistema_de_hospedagem/SistemaReservaHotel/obj/Debug/net8.0/SistemaReservaHotel.csproj.CoreCompileInputs.cache
+/workspaces/sistema_de_hospedagem/SistemaReservaHotel/obj/Debug/net8.0/SistemaReservaHotel.sourcelink.json
+/workspaces/sistema_de_hospedagem/SistemaReservaHotel/obj/Debug/net8.0/SistemaReservaHotel.dll
+/workspaces/sistema_de_hospedagem/SistemaReservaHotel/obj/Debug/net8.0/refint/SistemaReservaHotel.dll
+/workspaces/sistema_de_hospedagem/SistemaReservaHotel/obj/Debug/net8.0/SistemaReservaHotel.pdb
+/workspaces/sistema_de_hospedagem/SistemaReservaHotel/obj/Debug/net8.0/SistemaReservaHotel.genruntimeconfig.cache
+/workspaces/sistema_de_hospedagem/SistemaReservaHotel/obj/Debug/net8.0/ref/SistemaReservaHotel.dll

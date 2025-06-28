@@ -1,4 +1,4 @@
-namespace HotelReservationSystem.Models
+namespace SistemaReservaHotel.Models
 {
     public class Suite
     {
